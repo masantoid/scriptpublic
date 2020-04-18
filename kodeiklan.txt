@@ -1,6 +1,6 @@
 <!--iklan1-->
 <!--roriroi12-->
-
+<script type="text/javascript">
 	atOptions = {
 		'key' : 'fecd5d59339dea47d87b42695a9aee85',
 		'format' : 'iframe',
@@ -9,11 +9,11 @@
 		'params' : {}
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.hiprofitnetworks.com/fecd5d59339dea47d87b42695a9aee85/invoke.js"></scr' + 'ipt>');
-
+</script>
 batas		
 <!--iklan2-->
 <!--gazodaunrodo-->
-
+<script type="text/javascript">
 	atOptions = {
 		'key' : '2f85b6adb51c7ee336c4d46fa38a6c68',
 		'format' : 'iframe',
@@ -22,5 +22,6 @@ batas
 		'params' : {}
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.hiprofitnetworks.com/2f85b6adb51c7ee336c4d46fa38a6c68/invoke.js"></scr' + 'ipt>');
+</script>
 
 		
