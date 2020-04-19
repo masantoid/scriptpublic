@@ -1,4 +1,4 @@
-
+<script type="text/javascript">
 	atOptions = {
 		'key' : 'fecd5d59339dea47d87b42695a9aee85',
 		'format' : 'iframe',
@@ -7,6 +7,7 @@
 		'params' : {}
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.hiprofitnetworks.com/fecd5d59339dea47d87b42695a9aee85/invoke.js"></scr' + 'ipt>');
+<\/script>	
 batas		
 <!--iklan2-->
 <!--gazodaunrodo-->
