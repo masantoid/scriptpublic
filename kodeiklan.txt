@@ -1,4 +1,4 @@
-<!--iklan1-->
+
 	atOptions = {
 		'key' : 'fecd5d59339dea47d87b42695a9aee85',
 		'format' : 'iframe',
